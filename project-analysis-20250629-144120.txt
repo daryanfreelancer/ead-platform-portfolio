@@ -1,0 +1,18 @@
+RELATÓRIO DE ANÁLISE DO PROJETO EAD
+Data: dom 29 jun 2025 14:41:20 -03
+==================================
+
+1. TIPO DE ROUTER: unknown
+
+2. ARQUIVOS IMPORTANTES ENCONTRADOS:
+   - .env.local
+   - package.json
+
+3. ESTRUTURA DE ROTAS:
+
+4. RESET PASSWORD:
+   - Rota reset-password: 4 arquivo(s) encontrado(s)
+
+5. COMPONENTES SUPABASE:
+1
+ arquivo(s) relacionado(s) ao Supabase
